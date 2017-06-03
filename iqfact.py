@@ -1,7 +1,7 @@
 # The iqfact will be the parser log only.
 import sys
 import os
-sys.path.append("D:/square/factory_test_r12/")
+
 from factory_test_common.test_station.test_log import test_log
 from factory_test_common.test_station.test_log import TestResult
 
